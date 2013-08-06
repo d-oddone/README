@@ -6,6 +6,6 @@ Test Repository
  <!doctype html>
             <html>
                 <body>
-                    Hello, world!
+                    Hello GitHub!
                 </body>
             </html>
